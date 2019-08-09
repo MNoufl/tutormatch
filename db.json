@@ -1,8 +1,13 @@
 {
   "tutors": [
-    { "id": 1, "name": "name 1" },
-    { "id": 2, "name": "name 2" },
-    { "id": 3, "name": "name 3" }
+    { "id": 1, "name": "name 1","citiesId": 1 },
+    { "id": 2, "name": "name 2" ,"citiesId": 2 },
+    { "id": 3, "name": "name 3" ,"citiesId": 3 }
+  ],
+    "cities": [
+    { "id": 1, "name": "city 1" },
+    { "id": 2, "name": "city 2" },
+    { "id": 3, "name": "city 3" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "tutorsId": 1 },
