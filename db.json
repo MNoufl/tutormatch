@@ -1,15 +1,20 @@
 {
   "tutors": [
-    { "id": 1, "name": "name 1","students": 4,"city": "city 1" },
-    { "id": 2, "name": "name 2" ,"students": 11,"city": "city 2" },
-    { "id": 3, "name": "name 3" ,"students": 12,"city": "city 3" },
-    { "id": 4, "name": "name 4" ,"students": 5,"city": "city 1" },
-    { "id": 5, "name": "name 5" ,"students": 1,"city": "city 2" },
-    { "id": 6, "name": "name 6" ,"students": 2,"city": "city 3" },
-    { "id": 7, "name": "name 7" ,"students": 7,"city": "city 1" },
-    { "id": 8, "name": "name 8" ,"students": 0,"city": "city 2" },
-    { "id": 9, "name": "name 9" ,"students": 6,"city": "city 2" },
-    { "id": 10, "name": "name 10" ,"students": 9,"city": "city 2" }
+    { "id": 1, "name": "name 1","students": 4,"city": 1},
+    { "id": 2, "name": "name 2" ,"students": 11,"city": 2},
+    { "id": 3, "name": "name 3" ,"students": 12,"city": 3 },
+    { "id": 4, "name": "name 4" ,"students": 5,"city": 1 },
+    { "id": 5, "name": "name 5" ,"students": 1,"city": 2 },
+    { "id": 6, "name": "name 6" ,"students": 2,"city": 3 },
+    { "id": 7, "name": "name 7" ,"students": 7,"city": 1 },
+    { "id": 8, "name": "name 8" ,"students": 0,"city": 2 },
+    { "id": 9, "name": "name 9" ,"students": 6,"city": 2 },
+    { "id": 10, "name": "name 10" ,"students": 9,"city":2 }
     
+  ],
+  "cities":[
+    {"id": 1, "name": "city 1"},
+    {"id": 2, "name": "city 2"},
+    {"id": 3, "name": "city 3"}
   ]
 }
