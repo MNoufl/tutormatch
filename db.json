@@ -1,13 +1,13 @@
 {
   "tutors": [
-    { "id": 1, "name": "name 1","students": 4,"city": 1},
-    { "id": 2, "name": "name 2" ,"students": 11,"city": 2},
-    { "id": 3, "name": "name 3" ,"students": 12,"city": 3 },
-    { "id": 4, "name": "name 4" ,"students": 5,"city": 1 },
-    { "id": 5, "name": "name 5" ,"students": 1,"city": 2 },
-    { "id": 6, "name": "name 6" ,"students": 2,"city": 3 },
-    { "id": 7, "name": "name 7" ,"students": 7,"city": 1 },
-    { "id": 8, "name": "name 8" ,"students": 0,"city": 2 }
+    { "id": 1, "name": "CSS","students": 4,"city": 1},
+    { "id": 2, "name": "HTML" ,"students": 11,"city": 2},
+    { "id": 3, "name": "INFO" ,"students": 12,"city": 3 },
+    { "id": 4, "name": "GEO" ,"students": 5,"city": 1 },
+    { "id": 5, "name": "MATH" ,"students": 1,"city": 2 },
+    { "id": 6, "name": "GYM" ,"students": 2,"city": 3 },
+    { "id": 7, "name": "JQUERY" ,"students": 7,"city": 1 },
+    { "id": 8, "name": "C#" ,"students": 0,"city": 2 }
     
   ],
   "cities":[
